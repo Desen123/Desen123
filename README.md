@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Desen123/Desen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitry, I am from Izhevsk, Russia.
 
-Here are some ideas to get you started:
+I'm frontend-developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Education     | 
+| ------------- | 
+| Izhevsk State Technical University (ISTU) | 
+| sep. 2018 - may 2022  |
+| bachelor at Software Engineering |
+| ------------- | 
+| Saint Petersburg Electrotechnical University (ETU)|
+| sep. 2022 - dec. 2023|
+| unfinished master at Software Engineering|
+| ------------- | 
+
+I have skills in JavaScript, TypeScript, Node.js;
+tried myself at Python, Go, Rust and C/C++;
+
+My tech stack:
+
+Vite, TS, Svelte, Vue, React, Vanilla JS;
+
+Tried Electron (with electron-react-boilerplate), Tauri
